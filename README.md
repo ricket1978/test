@@ -1,2 +1,2 @@
-# test
-A test repository to teach git.
+# Test
+This is a test repository to teach git.
